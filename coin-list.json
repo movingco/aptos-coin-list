@@ -1,0 +1,210 @@
+{
+  "name": "The Moving Company's Aptos Coin List",
+  "tags": {},
+  "timestamp": "2022-05-24T04:16:35.842332Z",
+  "tokens": [
+    {
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "logoURI": "https://raw.githubusercontent.com/movingco/aptos-coin-list/master/assets/devnet/avax.svg",
+      "decimals": 9,
+      "address": "0x66327c0b76b33116bd1a202cad561eb06fb53bd9fed0ba819d96bb6229153a::TestTokens::AVAX",
+      "chainId": 201,
+      "tags": ["shamu-faucet"]
+    },
+    {
+      "name": "Avery Dennison Corp Class A Shares",
+      "symbol": "AVERY",
+      "logoURI": "https://raw.githubusercontent.com/movingco/aptos-coin-list/master/assets/devnet/avery.svg",
+      "decimals": 3,
+      "address": "0x66327c0b76b33116bd1a202cad561eb06fb53bd9fed0ba819d96bb6229153a::TestTokens::AVERY",
+      "chainId": 201,
+      "tags": ["shamu-faucet"]
+    },
+    {
+      "name": "Bamba Rewards",
+      "symbol": "BAMBA",
+      "logoURI": "https://raw.githubusercontent.com/movingco/aptos-coin-list/master/assets/devnet/bamba.svg",
+      "decimals": 8,
+      "address": "0x66327c0b76b33116bd1a202cad561eb06fb53bd9fed0ba819d96bb6229153a::TestTokens::BAMBA",
+      "chainId": 201,
+      "tags": ["shamu-faucet"]
+    },
+    {
+      "name": "Ebaumsworld",
+      "symbol": "BAUM",
+      "logoURI": "https://raw.githubusercontent.com/movingco/aptos-coin-list/master/assets/devnet/baum.svg",
+      "decimals": 6,
+      "address": "0x66327c0b76b33116bd1a202cad561eb06fb53bd9fed0ba819d96bb6229153a::TestTokens::BAUM",
+      "chainId": 201,
+      "tags": ["shamu-faucet"]
+    },
+    {
+      "name": "Ching Cash",
+      "symbol": "CHING",
+      "logoURI": "https://raw.githubusercontent.com/movingco/aptos-coin-list/master/assets/devnet/ching.svg",
+      "decimals": 6,
+      "address": "0x66327c0b76b33116bd1a202cad561eb06fb53bd9fed0ba819d96bb6229153a::TestTokens::CHING",
+      "chainId": 201,
+      "tags": ["shamu-faucet"]
+    },
+    {
+      "name": "Datum Shares",
+      "symbol": "DAT",
+      "logoURI": "https://raw.githubusercontent.com/movingco/aptos-coin-list/master/assets/devnet/dat.svg",
+      "decimals": 7,
+      "address": "0x66327c0b76b33116bd1a202cad561eb06fb53bd9fed0ba819d96bb6229153a::TestTokens::DAT",
+      "chainId": 201,
+      "tags": ["shamu-faucet"]
+    },
+    {
+      "name": "Ether",
+      "symbol": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/movingco/aptos-coin-list/master/assets/devnet/eth.svg",
+      "decimals": 9,
+      "address": "0x66327c0b76b33116bd1a202cad561eb06fb53bd9fed0ba819d96bb6229153a::TestTokens::ETH",
+      "chainId": 201,
+      "tags": ["shamu-faucet"]
+    },
+    {
+      "name": "Far Protocol",
+      "symbol": "FAR",
+      "logoURI": "https://raw.githubusercontent.com/movingco/aptos-coin-list/master/assets/devnet/far.svg",
+      "decimals": 7,
+      "address": "0x66327c0b76b33116bd1a202cad561eb06fb53bd9fed0ba819d96bb6229153a::TestTokens::FAR",
+      "chainId": 201,
+      "tags": ["shamu-faucet"]
+    },
+    {
+      "name": "Jain Street DAO",
+      "symbol": "JAIN",
+      "logoURI": "https://raw.githubusercontent.com/movingco/aptos-coin-list/master/assets/devnet/jain.svg",
+      "decimals": 8,
+      "address": "0x66327c0b76b33116bd1a202cad561eb06fb53bd9fed0ba819d96bb6229153a::TestTokens::JAIN",
+      "chainId": 201,
+      "tags": ["shamu-faucet"]
+    },
+    {
+      "name": "Kanav Korean Holdings",
+      "symbol": "KNV",
+      "logoURI": "https://raw.githubusercontent.com/movingco/aptos-coin-list/master/assets/devnet/knv.svg",
+      "decimals": 6,
+      "address": "0x66327c0b76b33116bd1a202cad561eb06fb53bd9fed0ba819d96bb6229153a::TestTokens::KNV",
+      "chainId": 201,
+      "tags": ["shamu-faucet"]
+    },
+    {
+      "name": "Kysama Protocol Token",
+      "symbol": "KSAM",
+      "logoURI": "https://raw.githubusercontent.com/movingco/aptos-coin-list/master/assets/devnet/ksam.svg",
+      "decimals": 7,
+      "address": "0x66327c0b76b33116bd1a202cad561eb06fb53bd9fed0ba819d96bb6229153a::TestTokens::KSAM",
+      "chainId": 201,
+      "tags": ["shamu-faucet"]
+    },
+    {
+      "name": "Morimoto Restaurant Group",
+      "symbol": "MO",
+      "logoURI": "https://raw.githubusercontent.com/movingco/aptos-coin-list/master/assets/devnet/mo.svg",
+      "decimals": 6,
+      "address": "0x66327c0b76b33116bd1a202cad561eb06fb53bd9fed0ba819d96bb6229153a::TestTokens::MO",
+      "chainId": 201,
+      "tags": ["shamu-faucet"]
+    },
+    {
+      "name": "Near Protocol",
+      "symbol": "NEAR",
+      "logoURI": "https://raw.githubusercontent.com/movingco/aptos-coin-list/master/assets/devnet/near.svg",
+      "decimals": 7,
+      "address": "0x66327c0b76b33116bd1a202cad561eb06fb53bd9fed0ba819d96bb6229153a::TestTokens::NEAR",
+      "chainId": 201,
+      "tags": ["shamu-faucet"]
+    },
+    {
+      "name": "Salaam Bankorus Freud",
+      "symbol": "SBF",
+      "logoURI": "https://raw.githubusercontent.com/movingco/aptos-coin-list/master/assets/devnet/sbf.svg",
+      "decimals": 8,
+      "address": "0x66327c0b76b33116bd1a202cad561eb06fb53bd9fed0ba819d96bb6229153a::TestTokens::SBF",
+      "chainId": 201,
+      "tags": ["shamu-faucet"]
+    },
+    {
+      "name": "Saber Protocol Token",
+      "symbol": "SBR",
+      "logoURI": "https://raw.githubusercontent.com/movingco/aptos-coin-list/master/assets/devnet/sbr.svg",
+      "decimals": 6,
+      "address": "0x66327c0b76b33116bd1a202cad561eb06fb53bd9fed0ba819d96bb6229153a::TestTokens::SBR",
+      "chainId": 201,
+      "tags": ["shamu-faucet"]
+    },
+    {
+      "name": "ShakeN Token",
+      "symbol": "SHAKE",
+      "logoURI": "https://raw.githubusercontent.com/movingco/aptos-coin-list/master/assets/devnet/shake.svg",
+      "decimals": 6,
+      "address": "0x66327c0b76b33116bd1a202cad561eb06fb53bd9fed0ba819d96bb6229153a::TestTokens::SHAKE",
+      "chainId": 201,
+      "tags": ["shamu-faucet"]
+    },
+    {
+      "name": "Shamu Protocol Token",
+      "symbol": "SHAM",
+      "logoURI": "https://raw.githubusercontent.com/movingco/aptos-coin-list/master/assets/devnet/sham.svg",
+      "decimals": 6,
+      "address": "0x66327c0b76b33116bd1a202cad561eb06fb53bd9fed0ba819d96bb6229153a::TestTokens::SHAM",
+      "chainId": 201,
+      "tags": ["shamu-faucet"]
+    },
+    {
+      "name": "Solana",
+      "symbol": "SOL",
+      "logoURI": "https://raw.githubusercontent.com/movingco/aptos-coin-list/master/assets/devnet/sol.svg",
+      "decimals": 9,
+      "address": "0x66327c0b76b33116bd1a202cad561eb06fb53bd9fed0ba819d96bb6229153a::TestTokens::SOL",
+      "chainId": 201,
+      "tags": ["shamu-faucet"]
+    },
+    {
+      "name": "Tinghua Investment Group",
+      "symbol": "TING",
+      "logoURI": "https://raw.githubusercontent.com/movingco/aptos-coin-list/master/assets/devnet/ting.svg",
+      "decimals": 7,
+      "address": "0x66327c0b76b33116bd1a202cad561eb06fb53bd9fed0ba819d96bb6229153a::TestTokens::TING",
+      "chainId": 201,
+      "tags": ["shamu-faucet"]
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/movingco/aptos-coin-list/master/assets/devnet/usdc.svg",
+      "decimals": 6,
+      "address": "0x66327c0b76b33116bd1a202cad561eb06fb53bd9fed0ba819d96bb6229153a::TestTokens::USDC",
+      "chainId": 201,
+      "tags": ["shamu-faucet"]
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/movingco/aptos-coin-list/master/assets/devnet/usdt.svg",
+      "decimals": 6,
+      "address": "0x66327c0b76b33116bd1a202cad561eb06fb53bd9fed0ba819d96bb6229153a::TestTokens::USDT",
+      "chainId": 201,
+      "tags": ["shamu-faucet"]
+    },
+    {
+      "name": "Wrapped SUI",
+      "symbol": "WSUI",
+      "logoURI": "https://raw.githubusercontent.com/movingco/aptos-coin-list/master/assets/devnet/wsui.svg",
+      "decimals": 6,
+      "address": "0x66327c0b76b33116bd1a202cad561eb06fb53bd9fed0ba819d96bb6229153a::TestTokens::WSUI",
+      "chainId": 201,
+      "tags": ["shamu-faucet"]
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
